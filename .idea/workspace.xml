@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d31e8b9d-a82f-4e96-a4b1-7c6c9be1dec1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin_temperature/appDHT.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin_temperature/appDHT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin_temperature/graphs.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin_temperature/graphs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin_temperature/publishmqtt.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin_temperature/publishmqtt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin_temperature/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bin_temperature/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binapi/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/binapi/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binapi/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/binapi/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/MQTT-Subscription-Examples/js-mtt-websockets-demo/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/MQTT-Subscription-Examples/js-mtt-websockets-demo/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/MQTT-Subscription-Examples/js-mtt-websockets-demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/MQTT-Subscription-Examples/js-mtt-websockets-demo/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bin_temperature" />
+  </component>
+  <component name="ProjectId" id="1VMjNq2JFPqBkxu2PchByPK4oqS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin_temperature" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bin_temperature" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d31e8b9d-a82f-4e96-a4b1-7c6c9be1dec1" name="Default Changelist" comment="" />
+      <created>1577069820871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577069820871</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added new sensor">
+      <created>1577078276390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577078276391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new sensor" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new sensor" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="201" width="641" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577075983111">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="378" y="201" width="641" height="391" key="#com.intellij.fileTypes.FileTypeChooser/41.27.1325.741@41.27.1325.741" timestamp="1577075983111" />
+    <state x="300" y="27" width="797" height="741" key="CommitChangelistDialog2" timestamp="1577078272489">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="300" y="27" width="797" height="741" key="CommitChangelistDialog2/41.27.1325.741@41.27.1325.741" timestamp="1577078272489" />
+    <state x="185" y="31" key="SettingsEditor" timestamp="1578201210840">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="185" y="31" key="SettingsEditor/41.27.1325.741@41.27.1325.741" timestamp="1578201210840" />
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577078306149">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/41.27.1325.741@41.27.1325.741" timestamp="1577078306149" />
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578201153108">
+      <screen x="41" y="27" width="1325" height="741" />
+    </state>
+    <state x="366" y="89" width="672" height="678" key="search.everywhere.popup/41.27.1325.741@41.27.1325.741" timestamp="1578201153108" />
+  </component>
+</project>

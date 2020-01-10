@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Grain bin temperature monitoring sytem">
+  <meta name="keywords" content="grain, bin, temperature, temp, monitoring, sytem, proble, controller">
+  <meta name="author" content="Grant Siebrecht">
+  <meta name="google-site-verification" content="utJDX4OPa_MoU_38meeYScgCTluaJhdUxcDt-XttXcQ" />
+  <title>Grain Bin Temperature Monitoring System</title>
+
+  <!--import bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.js"></script>
+  <!-- import google fonts lobster and open sans -->
+  <link href="https://fonts.googleapis.com/css?family=Lobster|Open+Sans" rel="stylesheet">
+
+
+
+
+
+  <script>
+    $(function() {
+      $("#header").load("nav.html");
+      $("#footer").load("footer.html");
+    });
+  </script>
+
+
+  <style>
+    body,
+    html {
+      height: 100%;
+    }
+
+    .bg {
+      /* The image used */
+      background-image: url("./images/bg.png");
+
+      /* Full height */
+      height: 45%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div id="header"></div>
+  <!--  <div class="bg"></div>-->
+  <form id="form1" runat="server">
+
+
+
+    <br>
+    <center>
+      <h3>Grain bin temperature monitoring system</h3><small><span class="text-muted">View any sensor from any smartphone or computer using IoT technology.</span></small>
+    </center>
+
+    <!--<div class="container-fluid" style="background:darkgrey;"><p><h3 style="text-align:center">MM/DD/YYYY</p></h3></div>-->
+
+    <br>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+
+          <p>Low cost IoT monitoring system that can can alert you to issues before they become problems.</p>
+
+          <p>Complete single sensor wifi enabled system is $175</p>
+
+          Benefits:<br>
+
+
+          <ul>
+            <li>Highly accurate digital sensors</li>
+            <li>View graph and data from any computer or smartphone</li>
+            <li>Data is stored on the device and on a server to enable access from anywhere. API for 3rd party applications.</li>
+          </ul>
+
+
+        </div>
+        <div class="col-md-4"><img class="img-fluid" src="images/LoRa_Website_SmartAg_NNNCo.jpg"></img>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+
+      <p>Ideally the system can plug right into your network or use your WIFI to connect to the internet. We can also use the cellular network for remote locations.</p>
+
+      <p>DIY system, simply zip tie the sensor cable to the bin and bury the sensor in few feet of grain in the top center of the bin. This is where the least amount of air flow is and will be the first place to notice grain going out of condition
+      </p>
+
+      <p>We use IoT technology (Internet Of Things). That means you can put a sensor on pretty much anything imaginable. The sensors are battery powered or standard line voltage. The range is around one mile if you have line of sight; the signal will
+        go through buildings and trees but the range isn't as good.</p>
+
+      <p>The possibilites are endless with low cost, wireless, battery powered sensors that can last over a year without needing recharged or battery replaced. Want to track how warm the dog house, chicken house or well pump is? No problem. If you
+        want to track it we can do it, humidity, soil temp, soil moisture, pretty much anyting you can think of we can use IoT to make it happen.</p>
+
+      <p>Can be installed after the bin is filled and moved to different bins very easily</p>
+
+      <p>In larger bins you would install multiple sensors in the bin, but in most smaller bins one probe in the center will alert you to problems. The sensor is very accurate and can detect fractions of a degree and alert you to trends. For what a
+        single sensor system costs, this is very cheap insurance.</p>
+
+      <p>Text or <a href="mailto:grant@siebrecht.us">email</a> <a href="tel:712-830-8553"><b>712-830-8553</b></a></p>
+
+
+      <p><a href="http://bintemp.com/bin_temperature/" class="btn btn-primary btn-lg btn-block active" role="button" aria-pressed="true">Demo Site</a></p>
+
+      <p>Grant Siebrecht<br>
+        402 N State Rd<br>
+        Lake View, IA 51450</p>
+
+      <strong>
+        <H1>
+          <center>
+            <p>$175 for a single sensor system.</p>
+          </center>
+        </h1>
+      </strong>
+      <center><a href="http://www.paypal.me/gsiebrecht/175"><img class="img-fluid" src="./images/paymethod.jpg"></a></center>
+      <br><br><br>
+
+
+
+
+
+      <div class="row">
+        <div class="col-md-4">This is a screenshot of my phone of a bin that rose alomost one degree in 5 days even though the weather has been below freezing.<br><br><img class="img-fluid mx-auto d-block" src="images/igBigBin.jpg"></div>
+        <div class="col-md-4">This is a graph showing two sets of data<br><br><img class="img-fluid mx-auto d-block" src="images/4sensors.png"></div>
+        <div class="col-md-4">This graph is the same as the one to the left but with air temp hidden so you can ssee the sensor in finer detail.<br><br><img class="img-fluid mx-auto d-block" src="images/accuracy.png"></div>
+      </div>
+
+      </div>
+
+
+  </form>
+
+
+
+  <!--<div id="footer"></div>-->
+
+</body>
+
+</html>
